@@ -11,7 +11,7 @@ $ git clone git@github.com:Venus-WXP/images.git
 ```
 然后就可以看到下面的这幅截图的样子，有一个文件夹。
 
-![](images/images/vj-smart-web-demo-1.png)
+![](vj-smart-web-demo/images/vj-smart-web-demo-1.png)
 
 ### 第二步
 
