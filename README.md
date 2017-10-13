@@ -9,7 +9,7 @@ This is a for vj-smart and how to use it.
 $ git clone git@github.com:Venus-WXP/images.git
 ```
 然后就可以看到下面的这幅截图的样子，有一个文件夹。
-![](/Venus-WXP/images/blob/master/images/vj-smart-web-demo-1.png)
+![](https://github.com/Venus-WXP/images/blob/master/images/vj-smart-web-demo-1.png?raw=true)
 ### 第二步
 打开你的EclipseIDE环境，如果你用的是其他编辑器，那么导入过程不做介绍，这里以Eclipse为例，你可以照做。
 图片二
